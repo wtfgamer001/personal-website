@@ -242,10 +242,11 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/hero-bg.jpg") top right no-repeat;
+  background: url("https://images.unsplash.com/photo-1601634499835-50158f60f9dc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80") top right no-repeat;
   background-size: cover;
   position: relative;
 }
+
 @media (min-width: 992px) {
   #hero {
     padding-left: 160px;
